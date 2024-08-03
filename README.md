@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project made from following the Odin Project. As someone who hopes to become a web developer one day, this should help me hone the skills that I've learned over my few years at school so far!
